@@ -15,6 +15,8 @@ I can't provide the full specification (it is not my work), but the gist of it w
  * Use LAME library for encoding and link to it statically.
  * Use pthread library - on Windows, too.
  * Compile on Windows and Linux.
+ * use C++
+ 
  
 # NO MORE CHEATING
 Sorry guys, but in case you're applying to you-know-where - find your own solution :)
